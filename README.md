@@ -4,3 +4,5 @@
 ## ideas
  * [모기트래커](mosqtrac.md)
  * [GistUsage] (https://gist.github.com/jgcho2z/216ce0434f8e35bbbd5cdad59441c569)
+ * Python + vim + project management
+ * github + blog + 지킬.
